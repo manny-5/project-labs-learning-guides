@@ -1,10 +1,10 @@
 # Project Labs Learning Guides
 
-A growing collection of accessible, beginner-friendly technical guides covering programming, data science and collaborative development.
+A growing collection of beginner-friendly technical guides covering programming, data science, and collaborative development.
 
 ## About this collection
 
-These guides are intended for students and other curious beginners who want clear introductions to the tools and ideas encountered in data science and software projects. They are designed to be useful as standalone reading and as a reference to return to later.
+These guides are intended for students and other beginners who want clear introductions to the tools and ideas encountered in data science and software projects. They are designed to be useful as standalone reading and as a reference to return to later.
 
 The collection will grow over time as new topics are drafted and reviewed. Each guide will have its own page and will be added to the index below. Images used across guides will be stored centrally in [`assets/images/`](assets/images/).
 
@@ -23,8 +23,6 @@ To keep the collection coherent and easy to navigate, guides will generally incl
 5. Key takeaways.
 6. Further reading and references.
 
-Guides use GitHub-flavoured Markdown. Keep links relative to the repository so they work on GitHub, and place shared images in `assets/images/`.
-
 ## Disclaimer
 
-These guides are independently authored educational resources. They are not official UCL materials and are not produced or endorsed by UCL or the UCL Data Science Society.
+These guides are independently authored educational resources.
