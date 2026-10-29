@@ -25,4 +25,4 @@ To keep the collection coherent and easy to navigate, guides will generally incl
 
 ## Disclaimer
 
-These guides are independently authored educational resources.
+These guides are independently authored educational resources and are not official UCL materials.
