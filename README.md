@@ -10,7 +10,7 @@ The collection will grow over time as new topics are drafted and reviewed. Each 
 
 ## Guide index
 
-1. [Understanding Git and GitHub](guides/01-understanding-git-and-github.md) — a guide to the foundations of version control and collaborative development.
+1. [Understanding Git & GitHub](guides/01-understanding-git-and-github.md) — a guide to the foundations of version control and collaborative development.
 
 ## Guide conventions
 
