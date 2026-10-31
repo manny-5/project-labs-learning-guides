@@ -1,6 +1,6 @@
 # Python Basics & Google Colab
 
-Author: Manny Singh  
+Author: Manny Singh<br>
 Contact: [<u>inbox@manny-singh.com</u>](mailto:inbox@manny-singh.com)
 
 ## 1. Introduction: What Is Python?
@@ -1106,7 +1106,7 @@ True
 False
 ```
 
-Boolean values are often produced by comparisons. 
+Boolean values are often produced by comparisons.
 
 Boolean logic allows us to combine conditions.
 
@@ -1682,7 +1682,7 @@ plt.show()
 
 This creates a bar chart displaying each student's score.
 
-These examples are only introductions. 
+These examples are only introductions.
 
 ### 7.4 Installing Packages in Colab
 
@@ -1737,7 +1737,7 @@ from google.colab import files
 uploaded = files.upload()
 ```
 
-Colab will open a file-selection interface. 
+Colab will open a file-selection interface.
 
 After uploading a file, it can be accessed from the runtime's filesystem. However, files uploaded directly into the runtime are temporary. If you need a dataset to remain available across sessions, you can store it in Google Drive or another persistent location and access it from your notebook.
 
