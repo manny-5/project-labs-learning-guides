@@ -12,6 +12,8 @@ The collection will grow over time as new topics are drafted and reviewed. Each 
 
 1. [Understanding Git & GitHub](guides/01-understanding-git-and-github.md) — a guide to the foundations of version control and collaborative development.
 
+2. [Guide 02 — Python Basics & Google Colab](guides/02-python-basics-and-google-colab.md)
+
 ## Guide conventions
 
 To keep the collection coherent and easy to navigate, guides will generally include:
