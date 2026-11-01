@@ -7,7 +7,7 @@ Contact: [<u>inbox@manny-singh.com</u>](mailto:inbox@manny-singh.com)
 
 Before we start writing Python code, it's worth understanding what programming actually is, how computers understand our instructions, and why Python is particularly useful for data science.
 
-### 1.1 Understanding Programming: From Human Language to Machine Code
+### 1.1 Understanding Programming
 
 Imagine you want a computer to calculate the average of a thousand numbers.
 
