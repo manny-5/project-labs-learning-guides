@@ -1,10 +1,10 @@
 # Project Labs Learning Guides
 
-A growing collection of beginner-friendly technical guides covering programming, data science, and collaborative development.
+A growing collection of beginner-friendly technical guides covering various topics in data science.
 
 ## About this collection
 
-These guides are intended for students and other beginners who want clear introductions to the tools and ideas encountered in data science and software projects. They are designed to be useful as standalone reading and as a reference to return to later.
+These guides are intended for beginners who want clear introductions to the tools and ideas encountered in data science and software projects. They are designed to be useful as standalone reading and as a reference to return to later.
 
 The collection will grow over time as new topics are drafted and reviewed. Each guide will have its own page and will be added to the index below. Images used across guides will be stored centrally in [`assets/images/`](assets/images/).
 
@@ -14,17 +14,4 @@ The collection will grow over time as new topics are drafted and reviewed. Each 
 
 2. [Guide 02 — Python Basics & Google Colab](guides/02-python-basics-and-google-colab.md)
 
-## Guide conventions
 
-To keep the collection coherent and easy to navigate, guides will generally include:
-
-1. A clear title and short introduction.
-2. Learning objectives.
-3. Conceptual explanations organised with descriptive headings.
-4. Relevant examples, diagrams and code snippets where useful.
-5. Key takeaways.
-6. Further reading and references.
-
-## Disclaimer
-
-These guides are independently authored educational resources and are not official UCL materials.
